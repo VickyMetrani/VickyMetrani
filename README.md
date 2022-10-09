@@ -2,7 +2,7 @@
 <h3>A passionate frontend developer & Part Time Bug Bounty Hunter from India</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickymetrani&label=Profile%20views&color=0e75b6&style=flat" alt="vickymetrani" /> </p>
-<img align="right" width="500" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif />
+<img align="right" width="450" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif />
 
 <p align="left"> <a href="https://twitter.com/vicky_metrani" target="blank"><img src="https://img.shields.io/twitter/follow/vicky_metrani?logo=twitter&style=for-the-badge" alt="vicky_metrani" /></a> </p>
 
